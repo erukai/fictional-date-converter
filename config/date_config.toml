@@ -1,0 +1,9 @@
+#the epoch date of the fictional calendar
+#formatted as [year, month, day]
+# e.g. [3000, 1, 1]
+fictionalEpoch = [0, 0, 0]
+
+#the Gregorian Earth date relative to the fictional epoch.
+#formatted as [YYYY, MM, DD]
+# e.g. [2000, 01, 01]
+earthEpoch = [0, 0, 0]
